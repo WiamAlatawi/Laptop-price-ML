@@ -28,7 +28,6 @@ A machine learning project that predicts laptop prices using regression models t
 
 ### 2. Exploratory Data Analysis (EDA)
 - Summary statistics for all features
-- Correlation heatmap with Price
 - Feature distributions (histograms)
 - Outlier detection (boxplot on `Inches`)
 
